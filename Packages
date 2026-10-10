@@ -1,1 +1,10 @@
 
+Package: com.serdarstone.sappstore
+Name: SAppstore
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Description: SAppstore tweak package
+Maintainer: SerdarStone
+Author: SerdarStone
+Section: Tweaks
+Filename: ./SAppstore_1.5.1.deb
